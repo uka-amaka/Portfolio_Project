@@ -1,9 +1,9 @@
-# cs50 restaurant
+# Alx grills and Dessert restaurant
 #### Video Demo:  <URL https://youtu.be/arFkrNLjK20>
 #### Description:
-Nice design of a responsive cs50 restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
+Nice design of a responsive Alx grills and Dessert restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
 and also a scroll reveal implemented with the use of javascript.
-the cs50 restaurant is a static page that shows what cs50 restaurant has to offer its customers.
+the Alx grills and Dessert restaurant is a static page that shows what Alx grills and Dessert restaurant has to offer its customers.
 this responsive website was implemanted using html css and javascripts
 the site contains a menu of specail dishes
 it also contains a contact us page.
