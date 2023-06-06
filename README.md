@@ -1,5 +1,4 @@
-# Portfolio_Project
-# ALX grills and derserts
+# cs50 restaurant
 #### Video Demo:  <URL https://youtu.be/arFkrNLjK20>
 #### Description:
 Nice design of a responsive cs50 restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
